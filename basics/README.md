@@ -1,0 +1,4 @@
+- Start Ubuntu container
+    - Cleanup with --rm
+    - Mount a folder to be able to save files
+    - Add new libraries to your Dockerfile and build your own image: add lolcat, fortune and cowsay: fortune | cowsay | lolcat
